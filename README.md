@@ -1,1 +1,1 @@
-# Neural-Network
+# Atomic Neural Networks
