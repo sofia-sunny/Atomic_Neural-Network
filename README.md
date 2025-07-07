@@ -5,7 +5,4 @@ An Atomic Neural Network (ANN) is a deep learning model that predicts molecular 
 
 ### **Google Colab Notebooks**
 
-[1-ANI_2xt_for_tautomers_Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network
-/blob/main/ANI_2xt_for_tautomers_Energies.ipynb)
-
-[1-ANI_2xt_for_tautomers_Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/ANI_2xt_for_tautomers_Energies.ipynb)
+[1- ANI_2xt_for_tautomers_Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/ANI_2xt_for_tautomers_Energies.ipynb)
