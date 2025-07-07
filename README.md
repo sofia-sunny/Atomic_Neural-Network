@@ -1,5 +1,5 @@
 ## Deep Dive Tutorials in Cheminformatics
-This repository builds on the Introductory Tutorials by offering focused, application-oriented notebooks that explore advanced topics in cheminformatics. Areas covered include conformer generation, substructure searching, QSAR, and generative models, using tools such as RDKit and Auto3D. These materials are intended for learners with a foundational background who seek to deepen their practical skills in molecular design and drug discovery.
+This repository builds on the Introductory Tutorials by offering focused, application-oriented notebooks that explore advanced topics in cheminformatics. Areas covered include conformer generation, QSAR, generative models, and more. These materials are intended for learners with a foundational background who seek to deepen their practical skills in molecular design and drug discovery.
 
 ### **Google Colab Notebooks**
 
