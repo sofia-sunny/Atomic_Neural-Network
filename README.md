@@ -1,7 +1,5 @@
-## **Atomic Neural Network**
-A curated set of  tutorials designed for working with Atomic Neural Networks
-
-An Atomic Neural Network (ANN) is a deep learning model that predicts molecular properties by summing atom-wise contributions, each computed from the atom’s local chemical environment. These environments are encoded using invariant descriptors and processed through neural networks specific to each atom type. ANNs like ANI-2x and ANI2xt are trained on quantum mechanical data and provide near-DFT accuracy for energy and force predictions while being computationally efficient, making them ideal for geometry optimization, conformer ranking, and tautomer stability analysis
+## Deep Dive Tutorials in Cheminformatics
+This repository builds on the Introductory Tutorials by offering focused, application-oriented notebooks that explore advanced topics in cheminformatics. Areas covered include conformer generation, substructure searching, QSAR, and generative models, using tools such as RDKit and Auto3D. These materials are intended for learners with a foundational background who seek to deepen their practical skills in molecular design and drug discovery.
 
 ### **Google Colab Notebooks**
 
