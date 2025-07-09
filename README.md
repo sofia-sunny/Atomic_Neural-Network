@@ -3,4 +3,4 @@ This repository builds upon the Introductory Tutorials by providing a series of 
 
 ### **Google Colab Notebooks**
 
-[2- ANI_2xt_for_tautomers_Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/ANI_2xt_for_tautomers_Energies.ipynb)
+[2- ANI_2xt_for_tautomers_Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/02_ANI_2xt_for_tautomers_Energies.ipynb)
