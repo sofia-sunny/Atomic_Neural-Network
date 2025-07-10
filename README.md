@@ -3,7 +3,5 @@ This repository builds upon the Introductory Tutorials by providing a series of 
 
 ### **Google Colab Notebooks**
 
-[1- Extracting ChEMBL Data](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/01_Extracting__ChEMBL_Data.ipynb)
 
-
-[2- ANI2xt for tautomers Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/02_ANI_2xt_for_tautomers_Energies.ipynb)
+[1- ANI2xt for tautomers Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/01_ANI_2xt_for_tautomers_Energies.ipynb)
