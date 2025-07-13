@@ -5,4 +5,4 @@ This repository builds upon the Introductory Tutorials by providing a series of 
 
 [1- QSAR_for_EGFR.ipynb](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/01_QSAR_for_EGFR.ipynb.ipynb)
 
-[02- ANI2xt for tautomers Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/02_ANI_2xt_for_tautomers_Energies.ipynb)
+[2- ANI2xt for tautomers Energies](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/02_ANI_2xt_for_tautomers_Energies.ipynb)
